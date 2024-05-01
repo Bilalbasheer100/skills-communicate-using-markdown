@@ -6,6 +6,11 @@ var lang = "javaScript"
 console.log(`I ${name} is a ${lang} programmer)
 ```
 
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
 ##h2 tag
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
