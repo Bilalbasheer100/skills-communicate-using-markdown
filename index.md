@@ -19,8 +19,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 Become a frontender
-- [ ] Learn HTML, CSS and Bootstrap
-- [ ] Learn JavaScript
+- [x] Learn HTML, CSS and Bootstrap
+- [x] Learn JavaScript
 - [ ] Learn React.js
 - [ ] Learn Next.js
 - [ ] Learn React Native
